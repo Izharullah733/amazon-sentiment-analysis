@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+imblearn
+transformers
+torch
+optuna
+nltk
+wandb
