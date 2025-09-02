@@ -13,7 +13,7 @@ Description: Contains ~568,000 reviews of food products from Amazon, with column
 
 **Project Structure**
 
-**sentiment_analysis_amazon_pytorch.py:** Main script for data preprocessing, feature engineering, model training (Logistic Regression and Fine-Tuned BERT), evaluation, and visualization.
+**main.py:** Main script for data preprocessing, feature engineering, model training (Logistic Regression and Fine-Tuned BERT), evaluation, and visualization.
 
 
 
