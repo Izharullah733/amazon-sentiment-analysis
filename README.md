@@ -33,25 +33,7 @@ Python: Version 3.11.9 (or compatible version)
 
 Libraries:
 
-pandas
-
-numpy
-
-seaborn
-
-matplotlib
-
-Scikit-learn
-
-imblearn
-
-transformers
-
-torch
-
-optuna
-
-nltk
+pandas, numpy, seaborn, matplotlib, Scikit-learn, imblearn, transformers, torch, optuna, nltk and wandb.
 
 **Note:** Use a GPU-enabled environment (e.g., Google Colab) for faster BERT training. If prompted for a wandb API key, disable wandb by adding import os; os.environ["WANDB_MODE"] = "disabled" at the top of the script, or sign up at wandb.ai for logging.
 
@@ -117,7 +99,7 @@ Experiment with additional BERT variants (e.g., bert-large-uncased) or other tra
 
 Implement cross-validation to ensure robust model evaluation.
 
-Add advanced feature engineering, such as n-grams or word embeddings beyond TF-I
+Add advanced feature engineering, such as n-grams or word embeddings beyond TF-IDF
 
 
 
